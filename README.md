@@ -3,7 +3,7 @@
  ## Taller 1 Github Flow instructivo 
  ## integrantes y usuario de github:
               jefferson valderrama (jefferson-bot)
-              maicol tovar correa  
+              maicol tovar correa  (tovarcorreamaicolstibeninem-dotcom)
               steveen perez (SteveenPerez)
 
 ## descricion:
