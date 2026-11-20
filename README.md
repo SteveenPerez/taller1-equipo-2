@@ -4,7 +4,7 @@
  ## integrantes y usuario de github:
               jefferson valderrama (jefferson-bot)
               maicol tovar correa  
-              steveen perez 
+              steveen perez (SteveenPerez)
 
 ## descricion:
              El grupo realiza un aplicativo para una barberia 
