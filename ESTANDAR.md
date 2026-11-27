@@ -37,7 +37,7 @@ Proyecto/
 ├── tests/        # Pruebas del proyecto
 ├── assets/       # Imágenes y recursos
 ├── README.md     # Información del proyecto
-└── .gitignore    # Archivos que no se deben subir
+└── .gitignore    # Archivos que no se deben subir.
 
 Importancia: Mantener las carpetas organizadas facilita encontrar archivos, trabajar en equipo y realizar modificaciones al proyecto.
 
