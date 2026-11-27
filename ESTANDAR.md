@@ -24,10 +24,26 @@ Lenguaje(s) del proyecto formativo: PHP, HTML5, CSS3, JavaScript, SQL (MySQL)
 * **Llaves:** Llave de apertura en línea nueva para clases y métodos en PHP (PSR-12); llave de apertura en la misma línea para estructuras de control (`if`, `for`, `while`), funciones JS y reglas CSS[cite: 1].
 
 ## 3. Comentarios y documentación
-(pendiente)
+Cuándo comentar: Cuando el código sea difícil de entender o tenga procesos importantes. Los comentarios deben ser claros y breves.
+
+Cómo documentar funciones: Explicar qué hace la función, qué datos recibe (parámetros) y qué resultado devuelve.
+
+Qué debe tener el README: Nombre del proyecto, descripción, objetivos, requisitos, instrucciones de instalación y uso, y nombres de los integrantes.
 
 ## 4. Estructura de carpetas
-(pendiente)
+La estructura de carpetas sirve para organizar los archivos del proyecto y facilitar su mantenimiento.
+
+Una organización básica puede ser:
+Proyecto/
+│
+├── src/          # Código fuente
+├── docs/         # Documentación
+├── tests/        # Pruebas del proyecto
+├── assets/       # Imágenes y recursos
+├── README.md     # Información del proyecto
+└── .gitignore    # Archivos que no se deben subir
+
+Importancia: Mantener las carpetas organizadas facilita encontrar archivos, trabajar en equipo y realizar modificaciones al proyecto.
 
 ## 5. Git: ramas, commits y pull requests
 (pendiente)
